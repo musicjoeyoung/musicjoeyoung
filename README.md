@@ -23,6 +23,6 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 ### 📫 How to reach me:
 - musicjoeyoung@gmail.com
 ### ⚡ Fun fact:
-- In the Army, I an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
+- In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
 <div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
