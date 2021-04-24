@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?color=auto)
+
 # <p align="center">Hi there! My name is Joseph. 👋</p>
 <p align="center">
   <img  src="/software engineer, fullstack developer, cool person (2).gif" alt=""/>
@@ -26,7 +28,7 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 - In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
 
-![header](https://capsule-render.vercel.app/api?color=auto)
+
 ![footer](https://capsule-render.vercel.app/api?color=auto&section=footer)
 
 
