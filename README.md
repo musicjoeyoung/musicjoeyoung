@@ -1,4 +1,4 @@
-### <p align="center">Hi there 👋! My name is Joseph.</p>
+### <p align="center">Hi there! My name is Joseph. 👋</p>
 <p align="center">
   <img  src="/software engineer, fullstack developer, cool person (2).gif" alt=""/>
   </p>
