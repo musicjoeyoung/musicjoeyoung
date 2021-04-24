@@ -31,8 +31,8 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 
 
 
-![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400)
+![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 
 <div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
