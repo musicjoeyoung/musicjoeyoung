@@ -27,7 +27,7 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 
 
 ![header](https://capsule-render.vercel.app/api?color=auto)
-![footer](https://capsule-render.vercel.app/api?color=auto)
+![footer](https://capsule-render.vercel.app/api?color=auto&section=footer)
 
 
 <div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
