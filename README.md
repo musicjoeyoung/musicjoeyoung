@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&fontSize=20&rotate=-30)
+<p align="center">![header](https://capsule-render.vercel.app/api?&fontSize=20&rotate=-30)</p>
 # <p align="center">Hi there! My name is Joseph. 👋</p>
 <p align="center">
   <img  src="/software engineer, fullstack developer, cool person (2).gif" alt=""/>
