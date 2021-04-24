@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="./logo.jpg" alt=""/>
+<img align="left" width="100" height="100" src="./logo.jpg" alt=""/>
 <!--
 **musicjoeyoung/musicjoeyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
