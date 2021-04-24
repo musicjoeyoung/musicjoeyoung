@@ -1,3 +1,5 @@
+<img src="https://camo.githubusercontent.com/0c391b5……416c696…" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient" style="max-width:100%;">
+
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 # <p align="center">Hi there! My name is Joseph. 👋</p>
 <p align="center">
