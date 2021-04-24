@@ -26,9 +26,7 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 - In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
-![header](https://capsule-render.vercel.app/api?text=Hi! I'm Joseph_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Say Hello!%20&height=300&fontSize=100&textBg=true)
 
 
 <div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
