@@ -27,7 +27,7 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 ### ⚡ Fun fact:
 - In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
-
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
 
 ![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400)
 
