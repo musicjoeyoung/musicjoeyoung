@@ -31,7 +31,7 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 
 
 
-![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400&text=%20asdf%20)
 
 
 
