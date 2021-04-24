@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img   src="/software engineer, fullstack developer, cool person (1).gif" alt=""/>
+  <img width: 100% height: 350px src="/software engineer, fullstack developer, cool person (1).gif" alt=""/>
   </p>
 <img align="right" width="200" height="200" src="./logo.jpg" alt=""/>
 <!--
