@@ -25,4 +25,6 @@ I'm a software engineer, as well as a musician and a member of the US Army with 
 ### ⚡ Fun fact:
 - In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
+
+![header](https://capsule-render.vercel.app/api?type=slice)
 <div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
