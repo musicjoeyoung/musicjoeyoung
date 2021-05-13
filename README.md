@@ -10,7 +10,8 @@
 ## About Me:
 I'm a software engineer, as well as a musician and a member of the US Army with over 16 years of leadership experience. As a software engineer and graduate of the Fullstack Academy Software Engineering Immersive program, I perform coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML5, CSS3, React, Redux, Node, Express, Sequelize, PostgreSQL, Babel, Webpack, OAuth, Heroku. I have also earned certifications from MIT on EdX.org in Data Science with Python.
 
-
+### 🏆 Reviews:
+- <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
 ### 🔭 I’m currently working on:
 - Unit homepage for the 78th Army Band
 ### 🌱 I’m currently learning:
