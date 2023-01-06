@@ -11,7 +11,7 @@
             Software Engineering Immersive program, I love to problem-solve,
             design, debug, test, and build various types of applications.
             I&apos;m passionate about learning and implementing web
-            accessibility standards into everything I do.
+            accessibility standards into everything I do. I work primarily with Javascript, HTML, CSS, React, jQuery, Redux, Node, Express, PostgreSQL, NextJS, Tone.js, and Three.js.
             <br />
             <br />
             I have helped build and deploy efficient and user-friendly marketing
@@ -23,27 +23,26 @@
             user-authorization structures and attractive user interface, as well
             as interactive, multi-user web spaces with polished front-end
             designs.
-I'm a software engineer and graduate of the Fullstack Academy Software Engineering Immersive program. I perform coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML5, CSS3, React, Redux, Node, Express, Sequelize, PostgreSQL, Babel, Webpack, OAuth, Heroku. I have also earned certifications from MIT on EdX.org in Data Science with Python.
+
 
 ### 🏆 Reviews:
 - <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
 ### 🔭 I’m currently working on:
 - Unit homepage for the 78th Army Band
-### 🌱 I’m currently learning:
-- GraphQL
+- Individual client sites
+### 🌱 I’m currently studying:
 - Typescript
-- Refining: my NERD & MERN stack skills
+- Three.js
 ### 👯 I’m looking to collaborate on:
 - Any project that empowers the user
 - Any project that has a strong sense of morals and values as its backbone
-- Music related projects
 ### 💬 Ask me about:
 - My experience as a Fullstack Academy graduate
 - Design Questions
 ### 📫 How to reach me:
 - musicjoeyoung@gmail.com
 ### ⚡ Fun fact:
-- In the Army, I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
+- I'm also in the Army Reserves where I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
 
 
