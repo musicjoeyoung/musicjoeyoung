@@ -35,6 +35,9 @@
 ### 💬 Ask me about:
 - Design
 - My experience as a Fullstack Academy graduate
+### 📘 I’m currently learning:
+- Web Accessibility
+- AWS
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
