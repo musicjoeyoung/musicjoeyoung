@@ -34,8 +34,8 @@
 - Any project that empowers the user
 - Any project that helps improve the world
 ### 💬 Ask me about:
-- My experience as a Fullstack Academy graduate
 - Design
+- My experience as a Fullstack Academy graduate
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
