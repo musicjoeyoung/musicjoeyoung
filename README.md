@@ -16,8 +16,7 @@
             <br />
             I have helped build and deploy efficient and user-friendly marketing
             campaigns for hundreds of major companies for a performance marketing
-            channel that delivers one-to-one messages across email and text at
-            an unmatched scale.
+            channel that delivers one-to-one messages across email and text.
             <br />
             <br />I have also collaborated on both e-commerce websites with full
             user-authorization structures and attractive user interface, as well
