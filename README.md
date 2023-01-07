@@ -8,7 +8,7 @@
 
 ## About Me:
   As a software engineer and graduate of the Fullstack Academy
-            Software Engineering Immersive program, I love to problem-solve,
+            Software Engineering Immersive program, I love to solve problems,
             design, debug, test, and build various types of applications.
             I&apos;m passionate about learning and implementing web
             accessibility standards into everything I do. I work primarily with Javascript, HTML, CSS, React, jQuery, Redux, Node, Express, PostgreSQL, NextJS, Tone.js, and Three.js.
@@ -28,14 +28,14 @@
 ### 🏆 Reviews:
 - <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
 ### 🔭 I’m managing:
-- Unit homepage for the 78th Army Band
+- 78th Army Band website
 - Individual client sites
 ### 👯 I’m looking to collaborate on:
 - Any project that empowers the user
-- Any project that has a strong sense of morals and values as its backbone
+- Any project that helps improve the world
 ### 💬 Ask me about:
 - My experience as a Fullstack Academy graduate
-- Design Questions
+- Design
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
