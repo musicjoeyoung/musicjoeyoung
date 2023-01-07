@@ -15,7 +15,7 @@
             <br />
             <br />
             I have helped build and deploy efficient and user-friendly marketing
-            campaigns for hundreds of major companies, a performance marketing
+            campaigns for hundreds of major companies for a performance marketing
             channel that delivers one-to-one messages across email and text at
             an unmatched scale.
             <br />
