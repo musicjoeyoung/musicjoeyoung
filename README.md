@@ -40,7 +40,7 @@
 - My experience as a Fullstack Academy graduate
 - Design Questions
 ### 📫 How to reach me:
-- musicjoeyoung@gmail.com
+- joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
 - I'm also in the Army Reserves where I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 
