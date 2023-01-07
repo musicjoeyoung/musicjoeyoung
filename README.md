@@ -27,12 +27,9 @@
 
 ### 🏆 Reviews:
 - <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
-### 🔭 I’m currently working on:
+### 🔭 I’m managing:
 - Unit homepage for the 78th Army Band
 - Individual client sites
-### 🌱 I’m currently studying:
-- Typescript
-- Three.js
 ### 👯 I’m looking to collaborate on:
 - Any project that empowers the user
 - Any project that has a strong sense of morals and values as its backbone
