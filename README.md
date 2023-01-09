@@ -29,7 +29,7 @@
 ### 🔭 I’m managing:
 - 78th Army Band website
 - Individual client sites
-### 👯 I’m looking to collaborate on:
+### 🙋‍♂️ I’m looking to collaborate on:
 - Any project that empowers the user
 - Any project that helps improve the world
 ### 💬 Ask me about:
