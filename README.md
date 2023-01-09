@@ -10,17 +10,8 @@
 I'm a software engineer with multiple years of experience coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML, CSS, React, Redux, Node, jQuery, Express, PostgreSQL, and have a special interest in Web Accessiblity.
 
 I design and manage websites for a number of clients. In addition to graduating from Fullstack Academy's Intensive Immersion program, I have also earned certifications in Data Science with Python from MIT via EdX.org.
-            
-            <br />
-            <br />
-            I have helped build and deploy efficient and user-friendly marketing
-            campaigns for hundreds of major companies for a performance marketing
-            channel that delivers one-to-one messages across email and text.
-            <br />
-            <br />I have also collaborated on both e-commerce websites with full
-            user-authorization structures and attractive user interface, as well
-            as interactive, multi-user web spaces with polished front-end
-            designs.
+
+I have helped build and deploy efficient and user-friendly marketing campaigns for hundreds of major companies for a performance marketing channel that delivers one-to-one messages across email and text. I have also collaborated on both e-commerce websites with full user-authorization structures and attractive user interface, as well as interactive, multi-user web spaces with polished front-end designs.
 
 ### 🔭 I’m managing:
 - 78th Army Band website
