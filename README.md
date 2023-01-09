@@ -30,11 +30,11 @@
 - Any project that empowers the user
 - Any project that helps improve the world
 ### 💬 Ask me about:
-- Design
+- Coding & Design
+- Wed Accessibility
 - My experience as a Fullstack Academy graduate
 ### 📘 I’m currently learning:
-- Web Accessibility
-- AWS
+- Cloud Services - AWS
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
