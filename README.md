@@ -7,11 +7,10 @@
 
 
 ## About Me:
-  As a software engineer and graduate of the Fullstack Academy
-            Software Engineering Immersive program, I love to solve problems,
-            design, debug, test, and build various types of applications.
-            I&apos;m passionate about learning and implementing web
-            accessibility standards into everything I do. I work primarily with Javascript, HTML, CSS, React, jQuery, Redux, Node, Express, PostgreSQL, NextJS, Tone.js, and Three.js.
+I'm a software engineer with multiple years of experience coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML, CSS, React, Redux, Node, jQuery, Express, PostgreSQL, and have a special interest in Web Accessiblity.
+
+I design and manage websites for a number of clients. In addition to graduating from Fullstack Academy's Intensive Immersion program, I have also earned certifications in Data Science with Python from MIT via EdX.org.
+            
             <br />
             <br />
             I have helped build and deploy efficient and user-friendly marketing
