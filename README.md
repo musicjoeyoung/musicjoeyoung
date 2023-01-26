@@ -28,7 +28,7 @@ I have helped build and deploy efficient and user-friendly marketing campaigns f
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
-- I'm also in the Army Reserves where I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
+- I'm also in the Army Reserve where I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 ### 🏆 Reviews:
 - <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
 
