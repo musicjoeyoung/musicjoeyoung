@@ -24,7 +24,8 @@ I have helped build and deploy efficient and user-friendly marketing campaigns f
 - Wed Accessibility
 - My experience as a Fullstack Academy graduate
 ### 📘 I’m currently learning:
-- Cloud Services - AWS
+- TypeScript
+- Three.js
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
 ### ⚡ Fun fact:
