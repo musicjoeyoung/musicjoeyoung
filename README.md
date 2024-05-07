@@ -7,7 +7,7 @@
 
 
 ## About Me:
-I'm a software engineer with multiple years of experience coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML, CSS, React, Redux, Node, jQuery, Express, PostgreSQL, and have a special interest in Web Accessiblity.
+I'm a software engineer with multiple years of experience coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript with HTML, CSS, SASS, React, Redux, Node, Express, PostgreSQL, MySQL and have a special interest in Web Accessibility.
 
 I design and manage websites for a number of clients. In addition to graduating from Fullstack Academy's Intensive Immersion program, I have also earned certifications in Data Science with Python from MIT via EdX.org.
 
