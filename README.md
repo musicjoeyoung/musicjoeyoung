@@ -1,5 +1,3 @@
-
-
 # <p align="center">Hi there! My name is Joseph. 👋</p>
 <p align="center">
   </p>
@@ -32,11 +30,3 @@ I have helped build and deploy efficient and user-friendly marketing campaigns f
 - I'm also in the Army Reserve where I'm an Executive Officer for a military band, and we play lots of wonderful music! 🇺🇸🎵
 ### 🏆 Reviews:
 - <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
-
-
-
-![footer](https://capsule-render.vercel.app/api?color=auto&section=footer&height=400&text=%20Let's%20Code!%20)
-
-
-
-<div>Logo created by <a href="https://www.designevo.com/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
