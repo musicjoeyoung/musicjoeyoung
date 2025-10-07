@@ -42,7 +42,7 @@ Before working in tech, I served 20 years in the U.S. Army, where I learned pers
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases / Managment
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
