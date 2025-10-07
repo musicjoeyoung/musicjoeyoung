@@ -2,31 +2,22 @@
 <p align="center">
   </p>
   
-
-
 ## About Me:
-I'm a software engineer with multiple years of experience coding, debugging, testing, and troubleshooting in application development processes. I work primarily in Javascript & TypeScript with HTML, CSS, SASS, React, Node, Express, PostgreSQL, MySQL, jQuery, MongoDB, Zod, Drizzle, NextJS and have a special interest in Web Accessibility.
+I’m a software engineer and educator with experience building full-stack applications using JavaScript, TypeScript, React, Node.js, Next.js, and SQL/NoSQL databases and have a special interest in Web Accessibility.
 
-I design and manage websites for a number of clients. In addition to graduating from Fullstack Academy's Intensive Immersion program, I have also earned certifications in Data Science with Python from MIT via EdX.org.
+I’ve mentored and taught hundreds of students through project-based learning, code reviews, and debugging, while also designing and maintaining websites for clients. I care about writing clear, maintainable code, building accessible web experiences, and staying current with modern tools and frameworks. 
 
-I have helped build and deploy efficient and user-friendly marketing campaigns for hundreds of major companies for a performance marketing channel that delivers one-to-one messages across email and text. I have also collaborated on both e-commerce websites with full user-authorization structures and attractive user interface, as well as interactive, multi-user web spaces with polished front-end designs.
+Before working in tech, I served 20 years in the U.S. Army, where I learned persistence, adaptability, and how to work well with any team.
 
 ### 🔭 I’m managing:
-- 78th Army Band website
 - Individual client sites
 ### 🙋‍♂️ I’m looking to collaborate on:
 - Any project that empowers the user
 - Any project that helps improve the world
 ### 💬 Ask me about:
+- Software Engineering Education!
 - Coding & Design
 - Wed Accessibility
 - My experience as a Fullstack Academy graduate
-### 📘 I’m currently learning:
-- TypeScript
-- Three.js
 ### 📫 How to reach me:
 - joseph.m.young2@gmail.com
-### ⚡ Fun fact:
-- I'm a 20-year Veteran of the US Army
-### 🏆 Reviews:
-- <a href="https://musicjoeyoung.medium.com/fullstack-academy-review-7a04f26dba2d" title="Fullstack Academy Review">Review of Fullstack Academy</a>
