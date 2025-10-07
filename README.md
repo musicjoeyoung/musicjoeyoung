@@ -68,6 +68,7 @@ Before working in tech, I served 20 years in the U.S. Army, where I learned pers
   <img src="https://avatars.githubusercontent.com/u/61152955?s=200&v=4" alt="Fiberplane" width="60" height="60"/>
 </div>
 
+---
 
 ### 🔭 I’m managing:
 - Individual client sites
