@@ -29,6 +29,7 @@ Before working in tech, I served 20 years in the U.S. Army, where I learned pers
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" alt="Bun" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="60" height="60"/>
   <img src="https://hono.dev/images/logo.svg" alt="Hono" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60"/>
 </div>
 
 ---
